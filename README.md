@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Vanessa Menezes.
 
 
-- 🧙‍♀️ Desenvolvedora FrontEnd
-- 🎓 Engenharia da computação
+- 🧙‍♀️ Desenvolvedora Front-end
+- 🎓 Engenharia da Computação
 - 🌱 Estudando React
 
 
