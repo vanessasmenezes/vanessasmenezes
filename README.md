@@ -3,7 +3,7 @@
 
 - 🧙‍♀️ Desenvolvedora de software
 - 🎓 Engenharia da Computação
-- 🌱 Estudando React
+
 
 
 <div style="display: inline_block"><br>
